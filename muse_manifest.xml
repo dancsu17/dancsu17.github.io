@@ -1,0 +1,206 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.es" resolutions="1x" timestamp="1553879345705">
+  <folder name="css">
+    <file name="site_global.css" crc="4077683227"/>
+    <file name="master_a-master.css" crc="4197348701" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="index.css" crc="2766248" ref="index"/>
+    <file name="iefonts_index.css" crc="4211100785" ref="index"/>
+    <file name="termos-de-uso.css" crc="527428228" ref="termos-de-uso"/>
+    <file name="pol_tica-de-privacidade.css" crc="43266847" ref="política-de-privacidade"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="museutils.js" crc="340535759" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="whatinput.js" crc="86476730" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="museconfig.js" crc="310584261" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="webpro.js" crc="4059564322" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u13791.php" crc="8023247" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="require.js" crc="7928878" ref="index:termos-de-uso:política-de-privacidade"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3912209808" ref="index"/>
+    <file name="checkeredbackground.gif" crc="4088929388" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="saborealadiversion.jpg" crc="3944260154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:termos-de-uso:política-de-privacidade"/>
+    <file name="kiwifesaslider.jpg" crc="3882272661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="18-spain-webbanner_01.jpg" crc="4270486461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u3711-4.png" crc="504686476" ref="index"/>
+    <file name="map.png" crc="4066625174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infocitrus.jpg" crc="3763384078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infofrutasdelbosque.jpg" crc="3769360644" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infomango.jpg" crc="4182297593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infopinatropical.jpg" crc="4150477939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infopomelo.jpg" crc="26583007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tampicotealaunch.jpg" crc="25914704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tampicotealaunch2.jpg" crc="3802876373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="saborea1.jpg" crc="3778816203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slit shadow 2 sharp.png" crc="3844131615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="259218190" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="instagram.png" crc="3848336331" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="twitter.png" crc="255529115" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="youtube.png" crc="23087992" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="citrus.png" crc="3791137761" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="blueras.png" crc="297194532" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="island.png" crc="3975808106" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="ksg.png" crc="149502444" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="mango.png" crc="105572646" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="whitegrapefruit.png" crc="323570079" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+    <file name="alcenara-wgf-15l-pet-flavors.png" crc="42962284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3790-4.png" crc="1617821" ref="index"/>
+    <file name="splash.png" crc="480382480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3714-4.png" crc="137327512" ref="index"/>
+    <file name="u3716-4.png" crc="329815180" ref="index"/>
+    <file name="u3718-4.png" crc="4061963072" ref="index"/>
+    <file name="u11638-4.png" crc="3832949326" ref="index"/>
+    <file name="u11651-4.png" crc="511303780" ref="index"/>
+    <file name="alcenara-cp-15l-pet-flavors.png" crc="4068273675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14148-4.png" crc="337294203" ref="index"/>
+    <file name="alcenara-br-15l-pet-flavors.png" crc="4278470584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14161-4.png" crc="410180691" ref="index"/>
+    <file name="alcenara-ip-15l-pet-flavors.png" crc="3957232125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14165-4.png" crc="393446430" ref="index"/>
+    <file name="alcenara-cp-1l-pet-flavors.png" crc="67788044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14187-4.png" crc="434639672" ref="index"/>
+    <file name="alcenara-mtf-1l-pet-flavors.png" crc="4172617734" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14224-4.png" crc="93606033" ref="index"/>
+    <file name="alcenara-ip-1l-pet-flavors.png" crc="4022509863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14237-4.png" crc="3954744703" ref="index"/>
+    <file name="u3719-4.png" crc="391474709" ref="index"/>
+    <file name="pasted-svg-230891x53.svg" crc="232218682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 230891x53_poster_.png" crc="4107605256" ref="index"/>
+    <file name="header_logo.png" crc="393374432" seo="true" ref="index:termos-de-uso:política-de-privacidade">
+      <caption webpage="index" alt=""/>
+      <caption webpage="termos-de-uso" alt=""/>
+      <caption webpage="política-de-privacidade" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3913579109" seo="true" mt="1553879252200" redirect="true"/>
+  <file name="termos-de-uso.html" crc="3995397584" seo="true" mt="1553878198090" redirect="true"/>
+  <file name="política-de-privacidade.html" crc="4213790025" seo="true" mt="1553878198090" redirect="true"/>
+</manifest>
