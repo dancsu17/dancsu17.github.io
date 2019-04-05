@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.es" resolutions="1x" timestamp="1553879345705">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.es" resolutions="1x" timestamp="1554479463432">
   <folder name="css">
     <file name="site_global.css" crc="4077683227"/>
-    <file name="master_a-master.css" crc="4197348701" ref="index:termos-de-uso:política-de-privacidade"/>
-    <file name="index.css" crc="2766248" ref="index"/>
+    <file name="master_a-master.css" crc="511918160" ref="política-de-privacidade:index:termos-de-uso"/>
+    <file name="pol_tica-de-privacidade.css" crc="43266847" ref="política-de-privacidade"/>
+    <file name="index.css" crc="414336410" ref="index"/>
     <file name="iefonts_index.css" crc="4211100785" ref="index"/>
     <file name="termos-de-uso.css" crc="527428228" ref="termos-de-uso"/>
-    <file name="pol_tica-de-privacidade.css" crc="43266847" ref="política-de-privacidade"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:termos-de-uso:política-de-privacidade"/>
@@ -61,19 +61,10 @@
     <file name="infomango.jpg" crc="4182297593" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="infopinatropical.jpg" crc="4150477939" seo="true" ref="index">
+    <file name="infopinatropical.jpg" crc="4225563081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="infopomelo.jpg" crc="26583007" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tampicotealaunch.jpg" crc="25914704" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tampicotealaunch2.jpg" crc="3802876373" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="saborea1.jpg" crc="3778816203" seo="true" ref="index">
+    <file name="infopomelo.jpg" crc="413020786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="checkboxunchecked.jpg" crc="495023700" ref="index">
@@ -200,7 +191,7 @@
       <caption webpage="política-de-privacidade" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3913579109" seo="true" mt="1553879252200" redirect="true"/>
-  <file name="termos-de-uso.html" crc="3995397584" seo="true" mt="1553878198090" redirect="true"/>
-  <file name="política-de-privacidade.html" crc="4213790025" seo="true" mt="1553878198090" redirect="true"/>
+  <file name="index.html" crc="3914441363" seo="true" mt="1554479026521" redirect="true"/>
+  <file name="termos-de-uso.html" crc="4084299841" seo="true" mt="1553878198090" redirect="true"/>
+  <file name="política-de-privacidade.html" crc="3996648836" seo="true" mt="1553878198090" redirect="true"/>
 </manifest>
