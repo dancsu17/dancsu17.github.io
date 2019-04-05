@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.es" resolutions="1x" timestamp="1554479463432">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tampico.es" resolutions="1x" timestamp="1554482052214">
   <folder name="css">
     <file name="site_global.css" crc="4077683227"/>
     <file name="master_a-master.css" crc="511918160" ref="política-de-privacidade:index:termos-de-uso"/>
     <file name="pol_tica-de-privacidade.css" crc="43266847" ref="política-de-privacidade"/>
-    <file name="index.css" crc="414336410" ref="index"/>
+    <file name="index.css" crc="359301853" ref="index"/>
     <file name="iefonts_index.css" crc="4211100785" ref="index"/>
     <file name="termos-de-uso.css" crc="527428228" ref="termos-de-uso"/>
   </folder>
@@ -191,7 +191,7 @@
       <caption webpage="política-de-privacidade" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3914441363" seo="true" mt="1554479026521" redirect="true"/>
+  <file name="index.html" crc="3792925068" seo="true" mt="1554481612213" redirect="true"/>
   <file name="termos-de-uso.html" crc="4084299841" seo="true" mt="1553878198090" redirect="true"/>
   <file name="política-de-privacidade.html" crc="3996648836" seo="true" mt="1553878198090" redirect="true"/>
 </manifest>
