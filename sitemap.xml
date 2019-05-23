@@ -1,177 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://tampico.es/index.html</loc>
-    <lastmod>2019-04-05</lastmod>
+    <loc>http://tampico.com.br/index.html</loc>
+    <lastmod>2019-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tampico.com.br/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tampico.com.br/tablet/index.html"/>
     <image:image>
-      <image:loc>http://tampico.es/images/saborealadiversion.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/new-look-slider-image.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/kiwifesaslider.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/iced%20tea%20slider%20image.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/18-spain-webbanner_01.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/20th-anniversary-slide.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/map.png</image:loc>
+      <image:loc>http://tampico.com.br/images/bpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/infocitrus.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/cpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/infofrutasdelbosque.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/ppbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/infomango.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/gpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/infopinatropical.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/lemontea.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/infopomelo.jpg</image:loc>
+      <image:loc>http://tampico.com.br/images/peachtea.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/slit%20shadow%202%20sharp.png</image:loc>
+      <image:loc>http://tampico.com.br/images/2lgrape.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/facebook.png</image:loc>
+      <image:loc>http://tampico.com.br/images/citrus1l.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/instagram.png</image:loc>
+      <image:loc>http://tampico.com.br/images/peach450.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/twitter.png</image:loc>
+      <image:loc>http://tampico.com.br/images/berry250.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/youtube.png</image:loc>
+      <image:loc>http://tampico.com.br/images/citrus200tetra.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/citrus.png</image:loc>
+      <image:loc>http://tampico.com.br/images/lemontea1500.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/blueras.png</image:loc>
+      <image:loc>http://tampico.com.br/images/peachtea300.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/island.png</image:loc>
+      <image:loc>http://tampico.com.br/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/ksg.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-25625x17.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/mango.png</image:loc>
+      <image:loc>http://tampico.com.br/images/instagram.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/whitegrapefruit.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-17586x9.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/alcenara-wgf-15l-pet-flavors.png</image:loc>
+      <image:loc>http://tampico.com.br/images/twitter.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/splash.png</image:loc>
+      <image:loc>http://tampico.com.br/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/alcenara-cp-15l-pet-flavors.png</image:loc>
+      <image:loc>http://tampico.com.br/images/header_logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/alcenara-br-15l-pet-flavors.png</image:loc>
+      <image:loc>http://tampico.com.br/images/splash.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/alcenara-ip-15l-pet-flavors.png</image:loc>
+      <image:loc>http://tampico.com.br/images/tampicotealaunch.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/alcenara-cp-1l-pet-flavors.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tampico.es/images/alcenara-mtf-1l-pet-flavors.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tampico.es/images/alcenara-ip-1l-pet-flavors.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tampico.es/images/pasted-svg-230891x53.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tampico.es/images/header_logo.png</image:loc>
+      <image:loc>http://tampico.com.br/images/tampicotealaunch2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://tampico.es/termos-de-uso.html</loc>
-    <lastmod>2019-03-29</lastmod>
+    <loc>http://tampico.com.br/termos-de-uso.html</loc>
+    <lastmod>2019-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tampico.es/images/facebook.png</image:loc>
+      <image:loc>http://tampico.com.br/images/bpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/instagram.png</image:loc>
+      <image:loc>http://tampico.com.br/images/cpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/twitter.png</image:loc>
+      <image:loc>http://tampico.com.br/images/ppbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/youtube.png</image:loc>
+      <image:loc>http://tampico.com.br/images/gpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/citrus.png</image:loc>
+      <image:loc>http://tampico.com.br/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/blueras.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-25625x17.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/island.png</image:loc>
+      <image:loc>http://tampico.com.br/images/instagram.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/ksg.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-17586x9.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/mango.png</image:loc>
+      <image:loc>http://tampico.com.br/images/twitter.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/whitegrapefruit.png</image:loc>
+      <image:loc>http://tampico.com.br/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/header_logo.png</image:loc>
+      <image:loc>http://tampico.com.br/images/header_logo.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://tampico.es/pol%C3%ADtica-de-privacidade.html</loc>
-    <lastmod>2019-03-29</lastmod>
+    <loc>http://tampico.com.br/pol%C3%ADtica-de-privacidade.html</loc>
+    <lastmod>2019-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tampico.es/images/facebook.png</image:loc>
+      <image:loc>http://tampico.com.br/images/bpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/instagram.png</image:loc>
+      <image:loc>http://tampico.com.br/images/cpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/twitter.png</image:loc>
+      <image:loc>http://tampico.com.br/images/ppbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/youtube.png</image:loc>
+      <image:loc>http://tampico.com.br/images/gpbrazilsliderfruit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/citrus.png</image:loc>
+      <image:loc>http://tampico.com.br/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/blueras.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-25625x17.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/island.png</image:loc>
+      <image:loc>http://tampico.com.br/images/instagram.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/ksg.png</image:loc>
+      <image:loc>http://tampico.com.br/images/pasted-svg-17586x9.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/mango.png</image:loc>
+      <image:loc>http://tampico.com.br/images/twitter.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/whitegrapefruit.png</image:loc>
+      <image:loc>http://tampico.com.br/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tampico.es/images/header_logo.png</image:loc>
+      <image:loc>http://tampico.com.br/images/header_logo.png</image:loc>
     </image:image>
   </url>
 </urlset>
